@@ -6,7 +6,8 @@ namespace dotnetcore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+			var x = "Hello World!"
+            Console.WriteLine(x);
         }
     }
 }
